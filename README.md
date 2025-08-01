@@ -22,8 +22,8 @@ Este projeto tem como objetivo analisar e prever a **evasão de clientes** (chur
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/TheGabrielVieira/challenge3-data-science-part-3.git
-cd challenge3-data-science-part-3
+git clone https://github.com/TheGabrielVieira/challenge3-data-science-part-2.git
+cd challenge3-data-science-part-2
 ```
 
 ### 2. Instale as dependências:
